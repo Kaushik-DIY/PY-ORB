@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+datasets/
+visual_slam_outputs/
+outputs/
+carto_outputs/
+hector_outputs/
+*.log
+*.zip
+*.npy
+*.npz
+*.ply
+*.jsonl
